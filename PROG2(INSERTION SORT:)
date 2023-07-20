@@ -35,3 +35,8 @@ Step 4 - If the element in the sorted array is smaller than the current element,
 Step 5 - Insert the value.
 
 Step 6 - Repeat until the array is sorted.
+
+* TIME COMPLEXITY FOR INSERTION SORT:
+Best Case: O(n)
+Worst Case: O(n2)
+Average Case: 	O(n2)
