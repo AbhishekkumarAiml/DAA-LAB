@@ -57,7 +57,7 @@ void mergeSort(char **arr, int left, int right) {
 }
 
 int main() {
-    FILE *file = fopen("mobile_numbers.txt", "r");
+    FILE *file = fopen("https://github.com/AbhishekkumarAiml/DAA-LAB/blob/main/mobile_numbers.txt", "r");
     if (file == NULL) {
         printf("File not found.\n");
         return 1;
